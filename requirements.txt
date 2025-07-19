@@ -1,0 +1,7 @@
+tweepy
+praw
+requests
+vaderSentiment
+matplotlib
+scipy
+yfinance
